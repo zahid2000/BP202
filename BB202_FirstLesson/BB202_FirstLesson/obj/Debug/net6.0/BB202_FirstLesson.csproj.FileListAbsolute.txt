@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\bin\Debug\net6.0\BB202_FirstLesson.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\bin\Debug\net6.0\BB202_FirstLesson.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\bin\Debug\net6.0\BB202_FirstLesson.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\bin\Debug\net6.0\BB202_FirstLesson.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\bin\Debug\net6.0\BB202_FirstLesson.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\refint\BB202_FirstLesson.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\BB202_FirstLesson.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\BB202_FirstLesson\BB202_FirstLesson\obj\Debug\net6.0\ref\BB202_FirstLesson.dll

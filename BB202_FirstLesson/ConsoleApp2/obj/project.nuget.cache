@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPvlXF6EKNKOrL39YqMXM/P5Ud3EWOrdGW12q7JXzegemUiW+zRblWhlEOJ+MEEIKaI2+rFz1X+homriMOlFGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Code_Academy\\BB202\\BB202_FirstLesson\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
