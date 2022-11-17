@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\bin\Debug\net6.0\MethodsPractica.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\bin\Debug\net6.0\MethodsPractica.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\bin\Debug\net6.0\MethodsPractica.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\bin\Debug\net6.0\MethodsPractica.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\bin\Debug\net6.0\MethodsPractica.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\refint\MethodsPractica.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\MethodsPractica.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MethodsPractica\MethodsPractica\obj\Debug\net6.0\ref\MethodsPractica.dll
