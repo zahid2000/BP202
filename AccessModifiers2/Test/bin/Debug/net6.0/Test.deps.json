@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "AccessModifiers2": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "AccessModifiers2/1.0.0": {
+        "runtime": {
+          "AccessModifiers2.dll": {}
+        }
+      },
+      "Validation/1.0.0.0": {
+        "runtime": {
+          "Validation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessModifiers2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validation/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

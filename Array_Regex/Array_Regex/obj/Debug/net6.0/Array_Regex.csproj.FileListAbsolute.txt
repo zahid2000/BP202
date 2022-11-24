@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\bin\Debug\net6.0\Array_Regex.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\bin\Debug\net6.0\Array_Regex.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\bin\Debug\net6.0\Array_Regex.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\bin\Debug\net6.0\Array_Regex.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\bin\Debug\net6.0\Array_Regex.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\refint\Array_Regex.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\Array_Regex.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Array_Regex\Array_Regex\obj\Debug\net6.0\ref\Array_Regex.dll
