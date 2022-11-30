@@ -101,7 +101,7 @@ namespace Exception_Reflection
             //}
             #endregion
             Customer customer = new Customer { Id=1,Name="Amil"};
-            ICustomerService customerService = new CustomerService(new Net6CustomerManager());
+            ICustomerService customerService = new CustomerService(new CustomerManager());
             customerService.Add(customer);
          
         }
