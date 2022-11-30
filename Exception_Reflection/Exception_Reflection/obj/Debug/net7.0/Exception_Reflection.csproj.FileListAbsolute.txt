@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\bin\Debug\net7.0\Exception_Reflection.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\bin\Debug\net7.0\Exception_Reflection.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\bin\Debug\net7.0\Exception_Reflection.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\bin\Debug\net7.0\Exception_Reflection.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\bin\Debug\net7.0\Exception_Reflection.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\refint\Exception_Reflection.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\Exception_Reflection.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Exception_Reflection\Exception_Reflection\obj\Debug\net7.0\ref\Exception_Reflection.dll

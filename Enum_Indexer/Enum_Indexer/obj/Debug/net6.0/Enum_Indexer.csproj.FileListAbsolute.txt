@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\bin\Debug\net6.0\Enum_Indexer.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\bin\Debug\net6.0\Enum_Indexer.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\bin\Debug\net6.0\Enum_Indexer.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\bin\Debug\net6.0\Enum_Indexer.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\bin\Debug\net6.0\Enum_Indexer.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\refint\Enum_Indexer.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\Enum_Indexer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Enum_Indexer\Enum_Indexer\obj\Debug\net6.0\ref\Enum_Indexer.dll

@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\Code_Academy\TN\C#\Abstract_Interface\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\TN\C#\Abstract_Interface\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\TN\C#\Abstract_Interface\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\TN\C#\Abstract_Interface\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\TN\C#\Abstract_Interface\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
