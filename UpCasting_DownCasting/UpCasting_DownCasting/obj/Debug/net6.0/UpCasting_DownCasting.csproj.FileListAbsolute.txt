@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\bin\Debug\net6.0\UpCasting_DownCasting.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\refint\UpCasting_DownCasting.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\UpCasting_DownCasting.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\UpCasting_DownCasting\UpCasting_DownCasting\obj\Debug\net6.0\ref\UpCasting_DownCasting.dll
