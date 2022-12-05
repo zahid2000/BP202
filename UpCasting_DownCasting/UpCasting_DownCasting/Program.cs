@@ -24,101 +24,114 @@
             #endregion
             #endregion
             #region DownCasting,UnBoxing,Explicit
-         
 
-            Animal fish = new Shark { Length=5};
-            Animal fish1 = new Sazan();
-            Animal parrot=new Parrot();
 
-            //Shark shark = fish as Shark;
-            //Shark shark = (Shark)fish;
+            //Animal fish = new Shark { Length=5};
+            //Animal fish1 = new Sazan();
+            //Animal parrot=new Parrot();
 
-            Animal[] animals = { parrot,fish, fish1 };
-            foreach (var animal in animals)
-            {
-                if (animal is Parrot p)
-                {
-                   
-                    p.Fly();
-                }
-                else if (animal is Sazan s)
-                {
-                    s.Swim();
-                }
-                else if(animal is Shark sh)
-                {
-                    Console.WriteLine(sh.Length); ;
-                }
-            }
+            ////Shark shark = fish as Shark;
+            ////Shark shark = (Shark)fish;
+
+            //Animal[] animals = { parrot,fish, fish1 };
+            //foreach (var animal in animals)
+            //{
+            //    if (animal is Parrot p)
+            //    {
+
+            //        p.Fly();
+            //    }
+            //    else if (animal is Sazan s)
+            //    {
+            //        s.Swim();
+            //    }
+            //    else if(animal is Shark sh)
+            //    {
+            //        Console.WriteLine(sh.Length); ;
+            //    }
+            //}
 
 
 
             #endregion
+            #region Operator Overloading
+            Customer c1 = new Customer("Eli",1);
+            Customer c2 = new Customer("Amil",25);
+            Customer c3 = new Customer("Nezrin",3);
+            Customer c4 = new Customer("Sima",7);
+            Customer[] arr = { c1,c2,c3,c4};
+            Array.Sort(arr);
+           
+            #endregion
         }
+    }
+    class Eli
+    {
+
     }
     #region Custing
 
         #region Upcasting,Boxing,Implicit
-    abstract class Animal
-    {
-        public abstract void Eat();
-    }
-    abstract class Bird : Animal
-    {
-        public abstract void Fly();
-    }
+    //abstract class Animal
+    //{
+    //    public abstract void Eat();
+    //}
+    //abstract class Bird : Animal
+    //{
+    //    public abstract void Fly();
+    //}
 
-    class Parrot : Bird
-    {
-        public int CountOfWing { get; set; }
-        public override void Eat()
-        {
-            Console.WriteLine("Parrot eating");
-        }
+    //class Parrot : Bird
+    //{
+    //    public int CountOfWing { get; set; }
+    //    public override void Eat()
+    //    {
+    //        Console.WriteLine("Parrot eating");
+    //    }
 
-        public override void Fly()
-        {
-            Console.WriteLine("Parrot flying");
+    //    public override void Fly()
+    //    {
+    //        Console.WriteLine("Parrot flying");
 
-        }
-    }
+    //    }
+    //}
 
 
-    abstract class Fish:Animal
-    {
-        public abstract void Swim();
-    }
+    //abstract class Fish:Animal
+    //{
+    //    public abstract void Swim();
+    //}
 
-    class Shark : Fish
-    {
-        public int Length { get; set; }
-        public override void Eat()
-        {
-            Console.WriteLine("Shark eating");
+    //class Shark : Fish
+    //{
+    //    public int Length { get; set; }
+    //    public override void Eat()
+    //    {
+    //        Console.WriteLine("Shark eating");
 
-        }
+    //    }
 
-        public override void Swim()
-        {
-            Console.WriteLine("Shark swimming");
+    //    public override void Swim()
+    //    {
+    //        Console.WriteLine("Shark swimming");
 
-        }
-    }
+    //    }
+    //}
 
-    class Sazan : Fish
-    {
-        public override void Eat()
-        {
-            Console.WriteLine("Sazan eating");
+    //class Sazan : Fish
+    //{
+    //    public override void Eat()
+    //    {
+    //        Console.WriteLine("Sazan eating");
 
-        }
+    //    }
 
-        public override void Swim()
-        {
-            Console.WriteLine("Sazan swimming");
+    //    public override void Swim()
+    //    {
+    //        Console.WriteLine("Sazan swimming");
 
-        }
-    }
+    //    }
+    //}
     #endregion
     #endregion
 }

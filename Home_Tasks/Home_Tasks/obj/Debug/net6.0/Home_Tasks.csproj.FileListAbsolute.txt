@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\bin\Debug\net6.0\Home_Tasks.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\bin\Debug\net6.0\Home_Tasks.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\bin\Debug\net6.0\Home_Tasks.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\bin\Debug\net6.0\Home_Tasks.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\bin\Debug\net6.0\Home_Tasks.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\refint\Home_Tasks.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\Home_Tasks.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Home_Tasks\Home_Tasks\obj\Debug\net6.0\ref\Home_Tasks.dll

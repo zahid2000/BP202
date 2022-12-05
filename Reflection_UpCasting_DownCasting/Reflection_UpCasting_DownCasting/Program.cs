@@ -9,18 +9,24 @@ namespace Reflection_UpCasting_DownCasting
         static void Main(string[] args)
         {
             #region Assembly class
-            //Assembly assembly= Assembly.GetExecutingAssembly();
-            //  var types= assembly.GetTypes();
-            //  foreach (var type in types)
-            //  {
-            //      var props = type.GetConstructors();
-            //      Console.WriteLine(type.FullName);
-            //      foreach (var prop in props)
-            //      {
-            //          Console.WriteLine(prop.GetParameters()[0].Name);
-            //      }
-            //      Console.WriteLine("-------------------------------------------------");
-            //  } 
+            //Assembly assembly = Assembly.GetExecutingAssembly();
+            //var types = assembly.GetTypes();
+            //if (types.Length==0)
+            //{
+            //    Console.WriteLine("Hello");
+            //}
+            //foreach (var type in types)
+            //{
+            //    var props = type.GetConstructors();
+            //    Console.WriteLine(type.FullName);
+            //    foreach (var prop in props)
+            //    {
+            //        Console.WriteLine(prop.GetParameters()[0].Name);
+            //    }
+            //    Console.WriteLine("-------------------------------------------------");
+            //}
+            Student student=new Student();
+            student.GetName();
             #endregion
 
             ////Type? person = Type.GetType("Reflection_UpCasting_DownCasting.Models.Person");
@@ -49,6 +55,7 @@ namespace Reflection_UpCasting_DownCasting
   
     class Student : Person
     {
+
         public Student()
         {
 
