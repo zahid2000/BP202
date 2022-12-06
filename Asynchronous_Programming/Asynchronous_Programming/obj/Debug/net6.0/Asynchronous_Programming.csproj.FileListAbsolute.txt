@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\bin\Debug\net6.0\Asynchronous_Programming.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\bin\Debug\net6.0\Asynchronous_Programming.deps.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\bin\Debug\net6.0\Asynchronous_Programming.runtimeconfig.json
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\bin\Debug\net6.0\Asynchronous_Programming.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\bin\Debug\net6.0\Asynchronous_Programming.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\refint\Asynchronous_Programming.dll
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\Asynchronous_Programming.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\Asynchronous_Programming\Asynchronous_Programming\obj\Debug\net6.0\ref\Asynchronous_Programming.dll
