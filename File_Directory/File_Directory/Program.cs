@@ -60,19 +60,21 @@ namespace File_Directory
             //    Console.WriteLine(result);
             //} 
             #endregion
+            #region Serializer,Deserializer
+            #region Json
 
-            Product product = new Product() { Id = 1,Name="BMW X6",Description="Fast",Price=30000 };
-            Product product1 = new Product() { Id = 2,Name="Prius",Description="20 kuza",Price=13000 };
-            Product product2 = new Product() { Id = 3,Name="VAZ 2107",Description="Super",Price=5000 };
-            Product product3 = new Product() { Id = 4,Name="Mustang Shelby",Description="67 Year",Price=60000 };
-            Product product4 = new Product() { Id = 5,Name="Mercedes Vyana",Description="Vito",Price=28000 };
+            //Product product = new Product() { Id = 1,Name="BMW X6",Description="Fast",Price=30000 };
+            //Product product1 = new Product() { Id = 2,Name="Prius",Description="20 kuza",Price=13000 };
+            //Product product2 = new Product() { Id = 3,Name="VAZ 2107",Description="Super",Price=5000 };
+            //Product product3 = new Product() { Id = 4,Name="Mustang Shelby",Description="67 Year",Price=60000 };
+            //Product product4 = new Product() { Id = 5,Name="Mercedes Vyana",Description="Vito",Price=28000 };
 
-            OrderItem orderItem1 = new OrderItem() {Id=1,Product=product,Count=2,TotalPice= 60000};
-            OrderItem orderItem2 = new OrderItem() {Id=2,Product=product1,Count=1,TotalPice= 13000};
-            OrderItem orderItem3 = new OrderItem() {Id=3,Product=product2,Count=2,TotalPice= 10000};
-            OrderItem orderItem4 = new OrderItem() {Id=4,Product=product3,Count=3,TotalPice= 180000};
-            List<OrderItem> orderItems = new List<OrderItem> { orderItem1, orderItem2, orderItem3, orderItem4, };
-            Order order=new Order() { Id=1,OrderItems=orderItems,TotalPrice=263000};
+            //OrderItem orderItem1 = new OrderItem() {Id=1,Product=product,Count=2,TotalPice= 60000};
+            //OrderItem orderItem2 = new OrderItem() {Id=2,Product=product1,Count=1,TotalPice= 13000};
+            //OrderItem orderItem3 = new OrderItem() {Id=3,Product=product2,Count=2,TotalPice= 10000};
+            //OrderItem orderItem4 = new OrderItem() {Id=4,Product=product3,Count=3,TotalPice= 180000};
+            //List<OrderItem> orderItems = new List<OrderItem> { orderItem1, orderItem2, orderItem3, orderItem4, };
+            //Order order=new Order() { Id=1,OrderItems=orderItems,TotalPrice=263000};
 
             //JsonSerializer jsonSerializer=new JsonSerializer();
             //var JsonObject = JsonConvert.SerializeObject(order);
@@ -92,16 +94,23 @@ namespace File_Directory
             //{
             //    Console.WriteLine(item.Product.Name);
             //}
+            #endregion
+            #region MyRegion
             //string xmlResult;
 
-            using (StreamReader sr=new StreamReader(@"C:\Users\lenovo\Desktop\Code_Academy\BB202\File_Directory\File_Directory\Files\XMLFile1.xml"))
-            {
-                XmlSerializer xmlSerializer = new XmlSerializer(typeof(ValCurs));
-                ValCurs XmlObject = (ValCurs)xmlSerializer.Deserialize(sr);
-                Console.WriteLine(XmlObject.ValType[0].Valute[0].Name);
-            }
 
-           
+            //using (StreamReader sr=new StreamReader(@"C:\Users\lenovo\Desktop\Code_Academy\BB202\File_Directory\File_Directory\Files\XMLFile1.xml"))
+            //{
+            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(ValCurs));
+            //    ValCurs XmlObject = (ValCurs)xmlSerializer.Deserialize(sr);
+            //    Console.WriteLine(XmlObject.ValType[0].Valute[0].Name);
+            //}
+            #endregion
+            #endregion
+
+
+
+
 
 
 
