@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUCc5THzGjGvrWkaDogMEVpZGigtTIpnP8fZdVOwcS6NadcH2tiVHjuq/L+CinZSLd4qp+zTJeQ1H7MThFQs9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Code_Academy\\BB202\\File_Directory\\File_Directory\\File_Directory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

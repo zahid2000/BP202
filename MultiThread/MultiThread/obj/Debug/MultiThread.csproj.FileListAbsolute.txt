@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.Form1.resources
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\lenovo\Desktop\Code_Academy\BB202\MultiThread\MultiThread\obj\Debug\MultiThread.pdb
