@@ -107,15 +107,23 @@ namespace File_Directory
             //}
             #endregion
             #endregion
+            File.Create(@"C:\Users\lenovo\Desktop\Hello.txt");
 
+            Program program =new Program();
+            Program.Eli()
 
-
-
-
-
-
+            
+       
 
         }
+      public static string Eli()
+        {
+            return "";
+        }
+        //public int Eli { get; set; }
+        public int ID { get; set; }
+
+
         #region MultiTasking
         //    static async void GetHttpClientAsync()
         //    {
@@ -166,5 +174,16 @@ namespace File_Directory
         //        return urls;
         //    } 
         #endregion
+    }
+
+
+    class Ilqar
+    {
+        public Ilqar()
+        {
+
+        }
+        public int ID { get; set; }
+        public static string Name { get; set; }
     }
 }

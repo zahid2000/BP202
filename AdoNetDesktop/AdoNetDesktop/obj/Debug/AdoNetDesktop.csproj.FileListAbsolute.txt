@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.Form1.resources
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.Properties.Resources.resources
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\bin\Debug\AdoNetDesktop.exe.config
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\bin\Debug\AdoNetDesktop.exe
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\bin\Debug\AdoNetDesktop.pdb
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.exe
+C:\Users\lenovo\Desktop\AdoNetDesktop\AdoNetDesktop\obj\Debug\AdoNetDesktop.pdb
