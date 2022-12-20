@@ -1,0 +1,26 @@
+﻿
+
+
+<h1>Contact</h1>
+
+<h1>TempData</h1>
+    @{
+        string[] names = (string[])TempData["Names"];
+    }
+
+        @foreach (var item in names)
+{
+    <p>@item</p>
+}
+
+
+<h1>ViewData</h1>
+
+
+    @{
+        string name2 = (string)ViewData["Names"];
+    }
+                <h1>@name2</h1>
+    
+
+

@@ -1,0 +1,35 @@
+﻿
+@model (List<Student> Students,string[] Groups);
+@{
+    int num = 2;
+    string[] names = { "Ilahe", "Ilqar", "Sima", "Nezrin", "Gulgez" };
+}
+
+@if (num == 1)
+{
+    <h1>OK</h1>
+}
+else
+{
+    <p>@num</p>
+    num++;
+}
+
+<ol type="a" style="color:red;">
+
+    @foreach (Student student in Model.Students)
+    {
+        <li>@student.Id @student.Name @student.Surname</li>
+    }
+</ol>
+
+<ulstyle="color:red;">
+
+    @foreach (string group in Model.Groups)
+    {
+            <li>@group</li>
+    }
+</ul>
+
+
+

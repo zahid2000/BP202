@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKf6ezFAxC3nU6MOfjU+D9RrgJmQCqOQj2UH0jZonzb+8WsppbLslX8hnI5rvXOJ566hU7sHMgNwB5QY4Ux26A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Code_Academy\\BB202\\WebApplicationOldVersion\\WebApplicationOldVersion\\WebApplicationOldVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
