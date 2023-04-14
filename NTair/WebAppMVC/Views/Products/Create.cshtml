@@ -1,0 +1,25 @@
+﻿@model ProductCreateDto
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class=" container">
+    <form  method="post" class=" form-control">
+        <div asp-validation-summary="ModelOnly"></div>
+        <input class="form-control"  asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+        <input class="form-control"  asp-for="Description" />
+        <span asp-validation-for="Description"></span>
+
+        <input class="form-control"  asp-for="Count" />
+        <span asp-validation-for="Count"></span>
+
+        <input class="form-control" asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+
+        <button type="submit" class=" btn btn-primary">Send</button>
+    </form>
+</div>
+

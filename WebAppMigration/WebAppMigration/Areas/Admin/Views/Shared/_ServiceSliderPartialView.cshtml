@@ -1,0 +1,41 @@
+﻿@model List<ServiceImage>
+<!-- Start Banner Hero -->
+<div class="banner-wrapper bg-light">
+    <div id="index_banner" class="banner-vertical-center-index container-fluid pt-5">
+
+        <!-- Start slider -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <ol class="carousel-indicators">
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="@i" class="@(Model[i].IsMain ?"active":"")"></li>
+
+                }
+
+            </ol>
+            <div class="carousel-inner">
+                @foreach (ServiceImage slider in Model)
+                {
+                    <div class="carousel-item @(slider.IsMain ?"active":"")">
+
+                        <img src="~/assets/img/@slider.Path" class="d-block w-100" alt="...">
+
+                    </div>
+                }
+
+
+            </div>
+            <a class="carousel-control-prev text-decoration-none" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+                <i class='bx bx-chevron-left'></i>
+                <span class="visually-hidden">Previous</span>
+            </a>
+            <a class="carousel-control-next text-decoration-none" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+                <i class='bx bx-chevron-right'></i>
+                <span class="visually-hidden">Next</span>
+            </a>
+        </div>
+        <!-- End slider -->
+
+    </div>
+</div>
+<!-- End Banner Hero -->

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiBB202.props" />
+</Project>

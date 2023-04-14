@@ -1,0 +1,22 @@
+﻿@model Service
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container">
+    <div class="card w-50" >
+        @*<img class="card-img-top img-fluid " src="~/assets/img/@Model.Images.Where(i=>i.IsMain).FirstOrDefault().Path"/>*@
+        <div class="card-header">
+            <partial name="_ServiceSliderPartialView" model="Model.Images"/>
+        </div>
+        <div class="card-body">
+            <h1 class="card-title">@Model.Name</h1>
+            <h3 class="card-description">@Model.Description</h3>
+        </div>
+        <div class="card-footer">
+            <p class="card-text"><b>Price : @Model.Price</b></p>
+            <p class="card-text"><b>Category : @Model.Category.Name</b></p>
+        </div>
+    </div>
+</div>
+

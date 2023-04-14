@@ -1,0 +1,20 @@
+﻿global using AutoMapper;
+global using Business.Services.Abstract;
+global using Business.Services.Concrete;
+global using Core.Entities.Concrete;
+global using DataAccess;
+global using DataAccess.Repositories.Abstract;
+global using DataAccess.Repositories.Concrete;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Entities.DTOs.Product;
+global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using System.Reflection;
+global using Business.Utilities.Constants;
+global using Core.Utilities.Exceptions;
+global using Core.Utilities.Results;
+global using Entities.Concrete;
+ 

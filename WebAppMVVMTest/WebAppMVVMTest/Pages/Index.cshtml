@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @foreach (var item in Model.Students)
+    {
+        <p>@item.Name</p>
+    }
+</div>
+
+
+<div class="container">
+    <form class="form-control">
+        <input asp-for="Student.Name" class="form-control" />
+    </form>
+</div>

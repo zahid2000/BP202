@@ -1,0 +1,17 @@
+﻿@model List<Service>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class="container overflow-hidden py-5" id="services">
+    <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 services">
+        <partial name="_ServicesPartialView" />
+    </div>
+    <input type="hidden" value="@ViewBag.ServicesCount" id="serviceCount" />
+
+
+    <div>
+        <a class=" btn btn-primary load-more" >Load More...</a>
+    </div>
+
+</section>
